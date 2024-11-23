@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Mew from Thailand.
-- 👀 I’m interested in Machine learning and Deep learning projects.
-- 🌱 I’m currently learning Master Degree of Data Science in Thailand.
-- 💞️ I’m looking to collaborate on ML projects, especially in NLP.
-- 📫 How to reach me ...
+# Hi there! 👋 I'm Prakarn Kidngun
+🔍 Data Scientist | 💻 AI Enthusiast | 🌟 Former actuary  
 
-<!---
-mewprakarn/mewprakarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🏢 **Professional**: Data Scientist at a leading banking company in Thailand.  
+- 🎯 **Interest Areas**: Economics, machine learning, financial modeling, and AI-driven innovations.  
+
+## Skills
+- **Languages**: Python, SQL, VBA  
+- **Tools & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Pyspark, Tableau,  
+- **Domains**: Risk Modeling and Credit Scoring, Loan Default Prediction, Actuarial Analysis
